@@ -8,6 +8,10 @@ const PORT = 8000;
 
 const app = express();
 
+var cors = require("cors");
+
+app.use(cors());
+
 // Authorization middleware. When used, the Access Token must
 // exist and be verified against the Auth0 JSON Web Key Set.
 const checkJwt = auth({
