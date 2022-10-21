@@ -1,0 +1,22 @@
+[
+  {
+    "_id": 101,
+    "serviceType": "Draping",
+    "price": 35
+  },
+  {
+    "_id": 102,
+    "serviceType": "Make-up",
+    "price": 30
+  },
+  {
+    "_id": 103,
+    "serviceType": "Kunjam/Tassles",
+    "price": 25
+  },
+  {
+    "_id": 104,
+    "serviceType": "traveling",
+    "message": "Please note traveling fees will depend on the distance and time of day. Your invoice quota will include the travel fees catered to your request."
+  }
+]
